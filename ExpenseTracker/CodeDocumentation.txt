@@ -1,0 +1,19 @@
+Here's a summary of the Expense Tracker GUI application:
+
+1. **Purpose**: The application helps users track their daily expenses and provides a graphical user interface (GUI) for ease of use.
+2. **Features**:
+   - Add expenses with amount, category, and description.
+   - View a summary of total expenses and category-wise expenditure.
+   - Store and retrieve expense data using a JSON file for persistence.
+3. **Technologies Used**: Python, Tkinter (for GUI), JSON (for data storage).
+4. **Data Management**:
+   - Loads existing expense data from a JSON file.
+   - Saves new expenses to the JSON file.
+5. **User Interface**:
+   - Input fields for amount, category, and description.
+   - Buttons to add expenses and view summary.
+   - Labels to display total and category-wise expenditure summaries.
+6. **Error Handling**: Includes error handling for invalid input (e.g., non-numeric amounts).
+7. **Running the Application**:
+   - Ensure Tkinter is installed.
+   - Run the Python script to start the application.
